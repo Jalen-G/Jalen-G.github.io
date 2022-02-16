@@ -1,0 +1,14 @@
+#jalen-image {
+    height: 400px;
+    object-fit: cover;
+}
+
+.tax-form-container {
+    width: 40%;
+}
+
+@media only screen and (max-width: 1023px) {
+    .tax-form-container {
+        width: 90%;
+    }
+}
